@@ -1,0 +1,9 @@
+{
+	"name": "adf-csv-to-sql-1405",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc35a708-46f0-43e2-b4ad-ce51c81a6bed",
+		"tenantId": "c925dbf2-e67c-4225-8f47-1f590d7dfb40"
+	}
+}
